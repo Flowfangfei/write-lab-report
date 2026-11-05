@@ -1,0 +1,4 @@
+interface:
+  display_name: "实验报告全流程"
+  short_description: "从讲义和实测记录完成学术实验报告，规范插图、润色与原始照片附录并核验 PDF"
+  default_prompt: "请使用 $write-lab-report，按本次阶段处理实验报告，采用学术版式和清晰的图组排列，完成计算、修订或润色，并在最终实测报告中附上原始记录照片附录，编译核验。"
